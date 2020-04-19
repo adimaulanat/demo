@@ -9,6 +9,7 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "typicode",
+    "address": "Jalan Mohammad Toha gg Erus no 29"
   }
 }
